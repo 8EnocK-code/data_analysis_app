@@ -1,0 +1,7 @@
+[theme]
+base="light"
+primaryColor="#1ABC9C"
+backgroundColor="#0E1117"
+secondaryBackgroundColor="#262730"
+textColor="#FAFAFA"
+font="poppins"
